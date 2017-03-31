@@ -1,0 +1,2761 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Max Exterior | F-Qualität",
+      "description": "Was hat im Leben Vorrang – die äußere Erscheinung oder der innere Kern? Wer auf der Suche nach einem Material für Außenanwendungen wie Fassaden oder Terrassen ist, hat die Frage für sich wohl bereits beantwortet. Es ist ganz klar beides.\n\n Denn Beides ist bei einer Werkstoff-Entscheidung gerade bei Außenanwendungen wichtig: Natürlich muss die Qualität des Produkts auch extremen Anforderungen entsprechen, schließlich geht es um den Schutz von Gebäuden. Und ebenso natürlich ist der Anblick eines Objektes ein Ausdruck von Individualität, ein Lifestyle-Statement und ein ganz persönliches Bekenntnis – und darum ist die gestalterische Qualität ebenso wichtig wie die Produktqualität.\n Max Exterior von FunderMax wird entlang dieser beiden Linien ständig weiterentwickelt. So wie die Einsatzbereiche immer vielfältiger werden, erreicht auch die Dekorpalette bis hin zum völlig freien Individualdekor immer neue Dimensionen an Nuancen und Abwechslung. Das Produkt selbst bleibt seinen Erfolgsfaktoren treu und steht egal in welchem Dekor immer auch für konsequenten Schutz und kompromisslose Härte gegenüber allen äußeren Einflüssen.",
+      "isNew": false,
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Neue_Exterior_Uni_2011_e2d4f468f6.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Max Authentic | F-Qualität",
+      "description": "Max Compactplatten der Dekorserie Authentic sind Compactplatten für den Einsatz im Freien.\n\n Diese Compactplatten werden vor allem aus Kernlagen hergestellt. Die natürliche, lebhafte, Struktur der Kernlagen ist sichtbar und wird durch das Verpressen in HPL-Pressen unterstrichen.\n Die Oberfläche der Platte ist gegen starkes Vergrauen mit der patentierten NT Oberfläche geschützt. Durch das Fehlen eines besonders lichtechten Dekores erhält die Platte durch Witterungseinflüsse ein 'natürliches' Aussehen.\n Da sich die einzelnen Platten teilweise deutlich in Farbe und Struktur unterscheiden, erzielen Sie die Besten optischen Ergebnisse durch 'Durchmischen' der Zuschnitte bei der Montage. Rohstoff- und produktionsbedingte Farbschwankungen vermitteln den speziellen optischen Effekt dieser Platte.",
+      "isNew": false,
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Authentic_Natura_Kern_braun_NT-2_querf_731b2bab05.jpg"
+    },
+    {
+      "id": 2,
+      "name": "m.look | A2-Qualität",
+      "description": "Ein brandbeständiges Material für architektonisch grenzenlose Ideen ohne Höhenbeschränkung und mit Baustoffklasse A2-s1, d0 nach EN 13501-1.\n\n m.look kleidet Gebäude - innen wie außen - und gibt sich dennoch unbeeindruckt und widerstandsfähig gegenüber äußeren Einflüssen. m.look eignet sich für alle Anwendungen, die eine Baustoffklasse A2-s1,d0 nach EN 13501-1 fordern und kombiniert gekonnt Stil mit begehrter Sicherheit.",
+      "isNew": false,
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_m.look_0764dc81de.jpg"
+    },
+    {
+      "id": 3,
+      "name": "NEW PRODUCT 1 | ABC 123",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "isNew": true,
+      "picture": "http://random-ize.com/lorem-ipsum-generators/lorem-ipsum/lorem-ipsum.jpg"
+    },
+    {
+      "id": 4,
+      "name": "NEW PRODUCT 2 | 321 CBA",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "isNew": true,
+      "picture": "http://random-ize.com/lorem-ipsum-generators/lorem-ipsum/lorem-ipsum.jpg"
+    }
+  ],
+  "family": [
+    {
+      "id": "metallic",
+      "hasSubcategories": false
+    },
+    {
+      "id": "colour",
+      "hasSubcategories": true
+    },
+    {
+      "id": "nature",
+      "hasSubcategories": true
+    },
+    {
+      "id": "material",
+      "hasSubcategories": true
+    },
+    {
+      "id": "authentic",
+      "hasSubcategories": false
+    },
+    {
+      "id": "universal",
+      "hasSubcategories": false
+    },
+    {
+      "id": "m.look",
+      "hasSubcategories": true
+    }
+  ],
+  "subcategories": [
+    {
+      "familyId": "colour",
+      "id": "Black & White"
+    },
+    {
+      "familyId": "colour",
+      "id": "Neon"
+    },
+    {
+      "familyId": "colour",
+      "id": "Yellow"
+    },
+    {
+      "familyId": "colour",
+      "id": "Red"
+    },
+    {
+      "familyId": "colour",
+      "id": "Blue"
+    },
+    {
+      "familyId": "colour",
+      "id": "Green"
+    },
+    {
+      "familyId": "colour",
+      "id": "Brown"
+    },
+    {
+      "familyId": "colour",
+      "id": "Pastel"
+    },
+    {
+      "familyId": "nature",
+      "id": "Impressive"
+    },
+    {
+      "familyId": "nature",
+      "id": "Pure"
+    },
+    {
+      "familyId": "nature",
+      "id": "Iconic"
+    },
+    {
+      "familyId": "nature",
+      "id": "Essential"
+    },
+    {
+      "familyId": "material",
+      "id": "Energetic"
+    },
+    {
+      "familyId": "material",
+      "id": "Plain"
+    },
+    {
+      "familyId": "material",
+      "id": "Solid"
+    },
+    {
+      "familyId": "material",
+      "id": "Urban"
+    },
+    {
+      "familyId": "m.look",
+      "id": "Vintage Wood"
+    },
+    {
+      "familyId": "m.look",
+      "id": "Natural Wood"
+    },
+    {
+      "familyId": "m.look",
+      "id": "Vintage Metallic"
+    },
+    {
+      "familyId": "m.look",
+      "id": "African Landscape"
+    }
+  ],
+  "decors": [
+    {
+      "id": "5032G",
+      "familyId": "metallic",
+      "categoryId": "",
+      "name": "Cinnamon + Glitter",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/cinnamon-glitter.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_FunderMax_5032_f03637c570.jpg"
+    },
+    {
+      "id": "0080G",
+      "familyId": "metallic",
+      "categoryId": "",
+      "name": "Black + Glitter",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/black-glitter-6.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_FunderMax_0080_neu_d17ca867e9.jpg"
+    },
+    {
+      "id": "0768G",
+      "familyId": "metallic",
+      "categoryId": "",
+      "name": "Sparrow + Glitter",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sparrow-glitter.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_FunderMax_0768_e4d366d6a0.jpg"
+    },
+    {
+      "id": "0077G",
+      "familyId": "metallic",
+      "categoryId": "",
+      "name": "Charcoal + Glitter",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/charcoal-glitter.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_FunderMax_0077_12e474a860.jpg"
+    },
+    {
+      "id": "0056G",
+      "familyId": "metallic",
+      "categoryId": "",
+      "name": "Atlantis + Glitter",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/atlantis-glitter-6.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_FunderMax_0056_neu_4ecf3e518e.jpg"
+    },
+    {
+      "id": "0066G",
+      "familyId": "metallic",
+      "categoryId": "",
+      "name": "Sand + Glitter",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sand-glitter-6.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_FunderMax_0066_fe60b897a7.jpg"
+    },
+    {
+      "id": "0091",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Starlight",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/starlight.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0008_0091_Starlight_3bf5220f2c.jpg"
+    },
+    {
+      "id": "0753",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Cool Grey Medium",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/cool-grey-medium.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0753_Cool_Grey_Medium_RGB_dfc11c2b59.jpg"
+    },
+    {
+      "id": "0080",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Black",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/black.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0080_A4_7b9382bc28.jpg"
+    },
+    {
+      "id": "0085",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "White",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/white.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0085_A4_5a65323b24.jpg"
+    },
+    {
+      "id": "0742",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Pebble Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/pebble-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0742_A4_49f33f09d8.jpg"
+    },
+    {
+      "id": "0741",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Birch Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/birch-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0741_A4_3494d1af56.jpg"
+    },
+    {
+      "id": "0074",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Pastel Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/pastel-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0074_A4_7168885e0c.jpg"
+    },
+    {
+      "id": "0747",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Medium Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/medium-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0747_A4_f924f49902.jpg"
+    },
+    {
+      "id": "0075",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Dark Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/dark-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0075_A4_66fe3aad32.jpg"
+    },
+    {
+      "id": "0077",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Charcoal",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/charcoal.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0077_A4_0050bddf69.jpg"
+    },
+    {
+      "id": "0776",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Concrete Grey",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/concrete-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0776_A4_RGB_64505a889f.jpg"
+    },
+    {
+      "id": "0070",
+      "familyId": "colour",
+      "categoryId": "Black & White",
+      "name": "Carbon Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/carbon-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0070_A4_7fe638ed77.jpg"
+    },
+    {
+      "id": "6010",
+      "familyId": "colour",
+      "categoryId": "Neon",
+      "name": "Electric",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/electric.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0005_6010_Electric_487a9edad6.jpg"
+    },
+    {
+      "id": "6020",
+      "familyId": "colour",
+      "categoryId": "Neon",
+      "name": "Satsuma",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/satsuma.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0004_6020_Satsuma_477c8acfca.jpg"
+    },
+    {
+      "id": "6030",
+      "familyId": "colour",
+      "categoryId": "Neon",
+      "name": "Candy",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/candy.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0003_6030_Candy_3a4f79b3bd.jpg"
+    },
+    {
+      "id": "6031",
+      "familyId": "colour",
+      "categoryId": "Neon",
+      "name": "Berry",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/berry.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0002_6031_Berry_5a5acdd386.jpg"
+    },
+    {
+      "id": "6040",
+      "familyId": "colour",
+      "categoryId": "Neon",
+      "name": "Grape",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/grape.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0001_6040_Grape_0db6205021.jpg"
+    },
+    {
+      "id": "6050",
+      "familyId": "colour",
+      "categoryId": "Neon",
+      "name": "Pool",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/pool.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0000_6050_Pool_c81a6542a0.jpg"
+    },
+    {
+      "id": "0687",
+      "familyId": "colour",
+      "categoryId": "Yellow",
+      "name": "Maize",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/maize.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0687_A4_0eb0c17c6e.jpg"
+    },
+    {
+      "id": "0647",
+      "familyId": "colour",
+      "categoryId": "Yellow",
+      "name": "Golden Yellow",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/golden-yellow.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0647_A4_RGB_f83749b8e8.jpg"
+    },
+    {
+      "id": "0736",
+      "familyId": "colour",
+      "categoryId": "Yellow",
+      "name": "Saffron",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/saffron.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0736_A4_9df93bb955.jpg"
+    },
+    {
+      "id": "0851",
+      "familyId": "colour",
+      "categoryId": "Yellow",
+      "name": "Winter White",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/winter-white.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0851_A4_42c63b5f1d.jpg"
+    },
+    {
+      "id": "0065",
+      "familyId": "colour",
+      "categoryId": "Yellow",
+      "name": "Ivory",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/ivory.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0065_A4_bbe14e7203.jpg"
+    },
+    {
+      "id": "0654",
+      "familyId": "colour",
+      "categoryId": "Yellow",
+      "name": "Jasmin",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/jasmin-1.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0654_A4_0d94d2af84.jpg"
+    },
+    {
+      "id": "0674",
+      "familyId": "colour",
+      "categoryId": "Red",
+      "name": "Mars Red",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/mars-red.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0674_Marsrot_A4_RGB_7c82e744d2.jpg"
+    },
+    {
+      "id": "0689",
+      "familyId": "colour",
+      "categoryId": "Red",
+      "name": "Dark Red",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/dark-red.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0689_A4_RGB_156b1fd155.jpg"
+    },
+    {
+      "id": "3003",
+      "familyId": "colour",
+      "categoryId": "Red",
+      "name": "Rubinus Red",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/rubinus-red.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_3003_A4_aaede2ed68.jpg"
+    },
+    {
+      "id": "0691",
+      "familyId": "colour",
+      "categoryId": "Red",
+      "name": "Purple",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/purple.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0691_A4_8b216cf00a.jpg"
+    },
+    {
+      "id": "0680",
+      "familyId": "colour",
+      "categoryId": "Red",
+      "name": "Wine Red",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/wine-red.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0680_A4_1d92772160.jpg"
+    },
+    {
+      "id": "3007",
+      "familyId": "colour",
+      "categoryId": "Red",
+      "name": "Black Red",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/black-red.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_3007_A4_657936cf10.jpg"
+    },
+    {
+      "id": "0717",
+      "familyId": "colour",
+      "categoryId": "Blue",
+      "name": "Atlantic",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/atlantic.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0717_A4_3a5d17a047.jpg"
+    },
+    {
+      "id": "0237",
+      "familyId": "colour",
+      "categoryId": "Blue",
+      "name": "Gentian Blue",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/gentian-blue.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0237_A4_a80c125b20.jpg"
+    },
+    {
+      "id": "0702",
+      "familyId": "colour",
+      "categoryId": "Blue",
+      "name": "Night Blue",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/night-blue.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0702_A4_e1ad73fc95.jpg"
+    },
+    {
+      "id": "0706",
+      "familyId": "colour",
+      "categoryId": "Blue",
+      "name": "Glacier Blue",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/glacier-blue.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0706_A4_9f7e6da900.jpg"
+    },
+    {
+      "id": "0712",
+      "familyId": "colour",
+      "categoryId": "Blue",
+      "name": "Steel Blue",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/steel-blue.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0712_A4_475b0bca36.jpg"
+    },
+    {
+      "id": "0703",
+      "familyId": "colour",
+      "categoryId": "Blue",
+      "name": "Dove Blue",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/dove-blue.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0703_A4_974c91c872.jpg"
+    },
+    {
+      "id": "0725",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Yellowish Green",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/yellowish-green.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0725_A4_66791392d7.jpg"
+    },
+    {
+      "id": "0623",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Green",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/green.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0623_gruen_RGB_eebf5ba60c.jpg"
+    },
+    {
+      "id": "0059",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Dark Green",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/dark-green.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0059_A4_3ebfda0a0e.jpg"
+    },
+    {
+      "id": "0592",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Kiwi Green",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/kiwi-green.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0592_A4_13fb672f5a.jpg"
+    },
+    {
+      "id": "0663",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Reseda Green",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/reseda-green.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0663_A4_a6f4cd486d.jpg"
+    },
+    {
+      "id": "0662",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Jade Green",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/jade-green.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0662_A4_a1c3ee7455.jpg"
+    },
+    {
+      "id": "0591",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Fir Green",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/fir-green.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0591_A4_813ab76428.jpg"
+    },
+    {
+      "id": "0611",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Pale Olive",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/pale-olive.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0611_A4_8146504626.jpg"
+    },
+    {
+      "id": "0612",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Olive",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/olive.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0612_A4_1dcb16e874.jpg"
+    },
+    {
+      "id": "0056",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Atlantis",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/atlantis.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0009_0056_Atlantis_6d0a29e188.jpg"
+    },
+    {
+      "id": "0617",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Petrol Green",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/petrol-green.html",
+      "picture": "hhttps://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0617_A4_5e7245e4f9.jpg"
+    },
+    {
+      "id": "0631",
+      "familyId": "colour",
+      "categoryId": "Green",
+      "name": "Turquoise",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/turquoise.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0631_A4_3c5bf0d77f.jpg"
+    },
+    {
+      "id": "0645",
+      "familyId": "colour",
+      "categoryId": "Brown",
+      "name": "Tobacco",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/tobacco.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0645_A4_b7f597c4fd.jpg"
+    },
+    {
+      "id": "0657",
+      "familyId": "colour",
+      "categoryId": "Brown",
+      "name": "Sepia Brown",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sepia-brown.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0657_A4_427ad91810.jpg"
+    },
+    {
+      "id": "0768",
+      "familyId": "colour",
+      "categoryId": "Brown",
+      "name": "Sparrow",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sparrow.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0007_0768_Sparrow_ef3392eba1.jpg"
+    },
+    {
+      "id": "0692",
+      "familyId": "colour",
+      "categoryId": "Brown",
+      "name": "Old Pink",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/old-pink.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0692_A4_b9c6eaf5cb.jpg"
+    },
+    {
+      "id": "0661",
+      "familyId": "colour",
+      "categoryId": "Brown",
+      "name": "Terracotta",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/terracotta.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0661_A4_e416e4c022.jpg"
+    },
+    {
+      "id": "5032",
+      "familyId": "colour",
+      "categoryId": "Brown",
+      "name": "Cinnamon",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/cinnamon.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_A4_RGB_0006_5032_Cinnamon_5c8f391923.jpg"
+    },
+    {
+      "id": "0073",
+      "familyId": "colour",
+      "categoryId": "Pastel",
+      "name": "Pale Ivory",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/pale-ivory.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0073_A4_5d6b8f3b10.jpg"
+    },
+    {
+      "id": "0066",
+      "familyId": "colour",
+      "categoryId": "Pastel",
+      "name": "Sand",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sand.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0066_A4_1cf8d78de9.jpg"
+    },
+    {
+      "id": "0733",
+      "familyId": "colour",
+      "categoryId": "Pastel",
+      "name": "Hygienic White",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/hygienic-white.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0733_A4_aaa8612530.jpg"
+    },
+    {
+      "id": "0627",
+      "familyId": "colour",
+      "categoryId": "Pastel",
+      "name": "Hygienic Beige",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/hygienic-beige.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0627_A4_3c4aa680c6.jpg"
+    },
+    {
+      "id": "0651",
+      "familyId": "colour",
+      "categoryId": "Pastel",
+      "name": "Cream",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/cream.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0651_A4_e2eaa9a9db.jpg"
+    },
+    {
+      "id": "0693",
+      "familyId": "colour",
+      "categoryId": "Pastel",
+      "name": "Orchid",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/orchid.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0693_A4_d7c7e7a814.jpg"
+    },
+    {
+      "id": "0919",
+      "familyId": "nature",
+      "categoryId": "Impressive",
+      "name": "Ecuador",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/ecuador.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0919_A4_d64f078913.jpg"
+    },
+    {
+      "id": "0922",
+      "familyId": "nature",
+      "categoryId": "Impressive",
+      "name": "Amazon",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/amazon.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0922_A4_edfc55a3be.jpg"
+    },
+    {
+      "id": "0601",
+      "familyId": "nature",
+      "categoryId": "Impressive",
+      "name": "Sun Pear",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sun-pear.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0601_A4_789df5b451.jpg"
+    },
+    {
+      "id": "5171",
+      "familyId": "nature",
+      "categoryId": "Impressive",
+      "name": "Polar Oak",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/polar-oak.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_5171_A4_96cf154394.jpg"
+    },
+    {
+      "id": "5172",
+      "familyId": "nature",
+      "categoryId": "Impressive",
+      "name": "Marshland Oak",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/marshland-oak.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_5172_A4_e31fd63dbd.jpg"
+    },
+    {
+      "id": "5173",
+      "familyId": "nature",
+      "categoryId": "Impressive",
+      "name": "Barrique Oak",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/barrique-oak.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_5173_A4_86c3b5dfc9.jpg"
+    },
+    {
+      "id": "0923",
+      "familyId": "nature",
+      "categoryId": "Pure",
+      "name": "Enigma",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/enigma.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0923_A4_cb43f40fd9.jpg"
+    },
+    {
+      "id": "0924",
+      "familyId": "nature",
+      "categoryId": "Pure",
+      "name": "Taurus",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/taurus.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0924_A4_cc2c6f4f0d.jpg"
+    },
+    {
+      "id": "0935",
+      "familyId": "nature",
+      "categoryId": "Pure",
+      "name": "Voyager",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/voyager.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0935_A4_6a61ebf0d8.jpg"
+    },
+    {
+      "id": "0925",
+      "familyId": "nature",
+      "categoryId": "Pure",
+      "name": "Butterfly",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/butterfly.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0925_A4_dd003dfb82.jpg"
+    },
+    {
+      "id": "0926",
+      "familyId": "nature",
+      "categoryId": "Pure",
+      "name": "Jazz",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/jazz.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0926_A4_1bd5563596.jpg"
+    },
+    {
+      "id": "0936",
+      "familyId": "nature",
+      "categoryId": "Pure",
+      "name": "Thunder",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/thunder.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0936_A4_Web_4d8365fc4d.jpg"
+    },
+    {
+      "id": "0927",
+      "familyId": "nature",
+      "categoryId": "Iconic",
+      "name": "Creek",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/creek.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0927_A4_1b4e31b386.jpg"
+    },
+    {
+      "id": "0801",
+      "familyId": "nature",
+      "categoryId": "Iconic",
+      "name": "Fir Platinum",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/fir-platinum.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0801_A4_92951ed0c9.jpg"
+    },
+    {
+      "id": "0803",
+      "familyId": "nature",
+      "categoryId": "Iconic",
+      "name": "Tyrol Pine",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/tyrol-pine.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0803_A4_9e37513d78.jpg"
+    },
+    {
+      "id": "0928",
+      "familyId": "nature",
+      "categoryId": "Iconic",
+      "name": "Gold Coast",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/gold-coast.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0928_A4_981274aad9.jpg"
+    },
+    {
+      "id": "0929",
+      "familyId": "nature",
+      "categoryId": "Iconic",
+      "name": "Antique",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/antique.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0929_A4_2ce4deac44.jpg"
+    },
+    {
+      "id": "0930",
+      "familyId": "nature",
+      "categoryId": "Iconic",
+      "name": "Phoenix",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/phoenix.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0930_A4_61f04628c7.jpg"
+    },
+    {
+      "id": "0931",
+      "familyId": "nature",
+      "categoryId": "Essential",
+      "name": "Akro Almond",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/akro-almond.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0931_A4_Web_005e5525ac.jpg"
+    },
+    {
+      "id": "0161",
+      "familyId": "nature",
+      "categoryId": "Essential",
+      "name": "Light Afro",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/light-afro.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0161_A4_88778b6b7e.jpg"
+    },
+    {
+      "id": "0932",
+      "familyId": "nature",
+      "categoryId": "Essential",
+      "name": "Akro Terra",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/akro-terra.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0932_A4_Web_026991b5a6.jpg"
+    },
+    {
+      "id": "0168",
+      "familyId": "nature",
+      "categoryId": "Essential",
+      "name": "Akro Rust",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/akro-rust.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0168_A4_472ee409c4.jpg"
+    },
+    {
+      "id": "0169",
+      "familyId": "nature",
+      "categoryId": "Essential",
+      "name": "Akro Ruby",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/akro-ruby.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0169_A4_938c2bb201.jpg"
+    },
+    {
+      "id": "0160",
+      "familyId": "nature",
+      "categoryId": "Essential",
+      "name": "Dark Afro",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/dark-afro.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0160_A4_674e7008c8.jpg"
+    },
+    {
+      "id": "0156",
+      "familyId": "material",
+      "categoryId": "Energetic",
+      "name": "Afro Patina",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/afro-patina.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0156_RGB_09094f202e.jpg"
+    },
+    {
+      "id": "0798",
+      "familyId": "material",
+      "categoryId": "Energetic",
+      "name": "Tambora",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/tambora.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0798_7dc69fb0d3.jpg"
+    },
+    {
+      "id": "0793",
+      "familyId": "material",
+      "categoryId": "Energetic",
+      "name": "Patina Tin",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/patina-tin.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0793_A4_e461dbbf71.jpg"
+    },
+    {
+      "id": "0794",
+      "familyId": "material",
+      "categoryId": "Energetic",
+      "name": "Patina Bronze",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/patina-bronze.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0794_A4_a9864bd325.jpg"
+    },
+    {
+      "id": "0386",
+      "familyId": "material",
+      "categoryId": "Energetic",
+      "name": "Blues",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/blues.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0386_A4_f309a1314d.jpg"
+    },
+    {
+      "id": "0387",
+      "familyId": "material",
+      "categoryId": "Energetic",
+      "name": "Reggae",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/reggae.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0387_A4_Web_e8305a6410.jpg"
+    },
+    {
+      "id": "0162",
+      "familyId": "material",
+      "categoryId": "Plain",
+      "name": "Afro Sahara",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/afro-sahara.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0162_A4_4b0c4ed564.jpg"
+    },
+    {
+      "id": "0158",
+      "familyId": "material",
+      "categoryId": "Plain",
+      "name": "Afro Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/afro-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0158_A4_285fbec4ba.jpg"
+    },
+    {
+      "id": "0159",
+      "familyId": "material",
+      "categoryId": "Plain",
+      "name": "Afro Black",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/afro-black.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0159_A4_d4246f22ad.jpg"
+    },
+    {
+      "id": "0028",
+      "familyId": "material",
+      "categoryId": "Plain",
+      "name": "Prado Brown",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/prado-brown.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0028_A4_RGB_2756bfb639.jpg"
+    },
+    {
+      "id": "0026",
+      "familyId": "material",
+      "categoryId": "Plain",
+      "name": "Prado Alu Grey",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/prado-alu-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0026_A4_RGB_09911be4fe.jpg"
+    },
+    {
+      "id": "0027",
+      "familyId": "material",
+      "categoryId": "Plain",
+      "name": "Prado Agate Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/prado-agate-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0027_A4_RGB_9730b3126b.jpg"
+    },
+    {
+      "id": "0394",
+      "familyId": "material",
+      "categoryId": "Solid",
+      "name": "Moonwalk",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/moonwalk.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0394_A4_36ef92790e.jpg"
+    },
+    {
+      "id": "0344",
+      "familyId": "material",
+      "categoryId": "Solid",
+      "name": "Riverside",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/riverside.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0344_A4_de7f26ea29.jpg"
+    },
+    {
+      "id": "0496",
+      "familyId": "material",
+      "categoryId": "Solid",
+      "name": "Colosseum",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/colosseum.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0496_A4_e8e3ed3972.jpg"
+    },
+    {
+      "id": "0497",
+      "familyId": "material",
+      "categoryId": "Solid",
+      "name": "Stonehenge",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/stonehenge.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0497_A4_2578137eb3.jpg"
+    },
+    {
+      "id": "0421",
+      "familyId": "material",
+      "categoryId": "Solid",
+      "name": "Venus",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/venus.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0421_VENUS_98a9e50da3.jpg"
+    },
+    {
+      "id": "0406",
+      "familyId": "material",
+      "categoryId": "Solid",
+      "name": "Rockstar",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/rockstar.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0406_A4_44398674a7.jpg"
+    },
+    {
+      "id": "0426",
+      "familyId": "material",
+      "categoryId": "Urban",
+      "name": "Loft",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/loft.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0426_A4_c05e8cf065.jpg"
+    },
+    {
+      "id": "0427",
+      "familyId": "material",
+      "categoryId": "Urban",
+      "name": "Skyline",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/skyline.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0427_Teaser_fa8bdead38.jpg"
+    },
+    {
+      "id": "0428",
+      "familyId": "material",
+      "categoryId": "Urban",
+      "name": "Cave",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/cave.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0428_A4_eb8df0316e.jpg"
+    },
+    {
+      "id": "0429",
+      "familyId": "material",
+      "categoryId": "Urban",
+      "name": "Corro",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/corro.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0429_A4_3e00406a3f.jpg"
+    },
+    {
+      "id": "0480",
+      "familyId": "material",
+      "categoryId": "Urban",
+      "name": "Kings Cross",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/kings-cross.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0480_A4_d9469c2f31.jpg"
+    },
+    {
+      "id": "0481",
+      "familyId": "material",
+      "categoryId": "Urban",
+      "name": "Satellite",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/satellite.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0481_A4_535b7b64e0.jpg"
+    },
+    {
+      "id": "AUTN",
+      "familyId": "authentic",
+      "categoryId": "",
+      "name": "Authentic Natura",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/authentic-natura.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_AUTN_c5b2c79cff.jpg"
+    },
+    {
+      "id": "0644",
+      "familyId": "universal",
+      "categoryId": "",
+      "name": "Sahara",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sahara-3.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0644_A4_4fc706d8b6.jpg"
+    },
+    {
+      "id": "0746",
+      "familyId": "universal",
+      "categoryId": "",
+      "name": "Sanitärgrau",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/sanitaergrau-1.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0746_A4_88826fe7fc.jpg"
+    },
+    {
+      "id": "0771",
+      "familyId": "universal",
+      "categoryId": "",
+      "name": "Alabasta",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/alabasta.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0771_Alabasta_e92e80f7d8.jpg"
+    },
+    {
+      "id": "0772",
+      "familyId": "universal",
+      "categoryId": "",
+      "name": "Perlmutt",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/perlmutt.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Perlmutt_0772_31c989dc63.jpg"
+    },
+    {
+      "id": "0773",
+      "familyId": "universal",
+      "categoryId": "",
+      "name": "Ton",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/ton.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Ton_0773_2e6179a68d.jpg"
+    },
+    {
+      "id": "0774",
+      "familyId": "universal",
+      "categoryId": "",
+      "name": "Nebelgrau",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/nebelgrau.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Nebelgrau_0774_1fd2234dd0.jpg"
+    },
+    {
+      "id": "0775",
+      "familyId": "universal",
+      "categoryId": "",
+      "name": "Alugrau",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/alugrau.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Alugrau_0775_b37aa42e52.jpg"
+    },
+    {
+      "id": "5171",
+      "familyId": "m.look",
+      "categoryId": "Vintage Wood",
+      "name": "Polar Oak",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/polar-oak.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_5171_A4_96cf154394.jpg"
+    },
+    {
+      "id": "5172",
+      "familyId": "m.look",
+      "categoryId": "Vintage Wood",
+      "name": "Marshland Oak",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/marshland-oak.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_5172_A4_e31fd63dbd.jpg"
+    },
+    {
+      "id": "5173",
+      "familyId": "m.look",
+      "categoryId": "Vintage Wood",
+      "name": "Barrique Oak",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/barrique-oak.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_5173_A4_86c3b5dfc9.jpg"
+    },
+    {
+      "id": "0803",
+      "familyId": "m.look",
+      "categoryId": "Natural Wood",
+      "name": "Tyrol Pine",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/tyrol-pine.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0803_A4_9e37513d78.jpg"
+    },
+    {
+      "id": "0156",
+      "familyId": "m.look",
+      "categoryId": "Vintage Metallic",
+      "name": "Afro Patina",
+      "hasReferenceObject": false,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/afro-patina.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0156_RGB_09094f202e.jpg"
+    },
+    {
+      "id": "0798",
+      "familyId": "m.look",
+      "categoryId": "Vintage Metallic",
+      "name": "Tambora",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/tambora.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0798_7dc69fb0d3.jpg"
+    },
+    {
+      "id": "0161",
+      "familyId": "m.look",
+      "categoryId": "African Landscape",
+      "name": "Light Afro",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/light-afro.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0161_A4_88778b6b7e.jpg"
+    },
+    {
+      "id": "0158",
+      "familyId": "m.look",
+      "categoryId": "African Landscape",
+      "name": "Afro Grey",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/afro-grey.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0158_A4_285fbec4ba.jpg"
+    },
+    {
+      "id": "0159",
+      "familyId": "m.look",
+      "categoryId": "African Landscape",
+      "name": "Afro Black",
+      "hasReferenceObject": true,
+      "link": "https://www.fundermax.at/exterior/dekore/detailseite/afro-black.html",
+      "picture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_0159_A4_d4246f22ad.jpg"
+    }
+  ],
+  "referenceObjects": [
+    {
+      "name": "Resistenz Jade",
+      "country": "USA",
+      "city": "North Wildwood NJ 08260, 512 East 4th Street",
+      "architect": "EL Studio Washington DC",
+      "decors": [
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        },
+        {
+          "decorId": "0080",
+          "decorName": "Black"
+        },
+        {
+          "decorId": "0662",
+          "decorName": "Jade Green"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Jade_Residenz_c05cd48f2b.jpg"
+    },
+    {
+      "name": "CREC Academy of Aerospace and Engineering",
+      "country": "USA",
+      "city": "Windsor, 1101 Kennedy Rd",
+      "architect": "Friar Associates",
+      "decors": [
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        },
+        {
+          "decorId": "0080",
+          "decorName": "Black"
+        },
+        {
+          "decorId": "0702",
+          "decorName": "Night Blue"
+        },
+        {
+          "decorId": "3007",
+          "decorName": "Black Red"
+        },
+        {
+          "decorId": "0065",
+          "decorName": "Ivory"
+        },
+        {
+          "decorId": "0647",
+          "decorName": "Golden Yellow"
+        },
+        {
+          "decorId": "0736",
+          "decorName": "Saffron"
+        },
+        {
+          "decorId": "0591",
+          "decorName": "Fir Green"
+        },
+        {
+          "decorId": "0237",
+          "decorName": "Gentian Blue"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Crec_Academy_Aerospace_Engineering_I_efe3b361db.jpg"
+    },
+    {
+      "name": "Residenz in Rouxmesnil-Bouteilles",
+      "country": "France",
+      "city": "76200 Dieppe",
+      "architect": "Ulysses Design",
+      "decors": [
+        {
+          "decorId": "0080",
+          "decorName": "Black"
+        },
+        {
+          "decorId": "5171",
+          "decorName": "Polar Oak"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Rouxmesnil-Bouteilles3_2b9a9f9e73.jpg"
+    },
+    {
+      "name": "Veranstaltungshalle in Hallwang",
+      "country": "Austria",
+      "city": "Hallwang, Dorfstraße 45",
+      "architect": "Architekten Resmann & Schindlmeier ZT-GmbH",
+      "decors": [
+        {
+          "decorId": "0160",
+          "decorName": "Dark Afro"
+        },
+        {
+          "decorId": "0080",
+          "decorName": "Black"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm__JHE5576_71fe4249d9.jpg"
+    },
+    {
+      "name": "CHP Pau - Ärztezentrum",
+      "country": "France",
+      "city": "64000 Pau",
+      "architect": "Victor Maldonado",
+      "decors": [
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        },
+        {
+          "decorId": "0028",
+          "decorName": "Prado Brown"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_CHP_Pau_-_AErztezentrum_5_0992573868.jpg"
+    },
+    {
+      "name": "Bürogebäude HIM IMPEX",
+      "country": "Romania",
+      "city": "Cluj-Napoca, Strada Mihai Eminescu Nr.3",
+      "architect": "?",
+      "decors": [
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_him_impex_poza_finala_2_1389314fb6.jpg"
+    },
+    {
+      "name": "Spielplatz von Vinci Play",
+      "country": "Poland",
+      "city": "?",
+      "architect": "Vinci Play",
+      "decors": [
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Spielplatz_Vinci_Play_II_ee3e896e80.jpg"
+    },
+    {
+      "name": "Mahestan - Parkhaus und Shopping Center",
+      "country": "Iran",
+      "city": "Shiraz",
+      "architect": "Mr. Shahidi",
+      "decors": [
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Mahestan_Shiraz_1_3b573e38dc.jpg"
+    },
+    {
+      "name": "Olympic Village Novogorsk",
+      "country": "Russia",
+      "city": "Moscow",
+      "architect": "Architekturium. Vladimir Bindeman's Workshop",
+      "decors": [
+        {
+          "decorId": "0922",
+          "decorName": "Amazon"
+        },
+        {
+          "decorId": "0936",
+          "decorName": "Thunder"
+        },
+        {
+          "decorId": "0923",
+          "decorName": "Enigma"
+        },
+        {
+          "decorId": "0932",
+          "decorName": "Akro Terra"
+        },
+        {
+          "decorId": "0066",
+          "decorName": "Sand"
+        },
+        {
+          "decorId": "0771",
+          "decorName": "Alabasta"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/_processed_/csm_Olympic_Village_Novogorsk_I_b5b2685420.jpg"
+    },
+    {
+      "name": "Mehrfamilienhaus in Kärnten",
+      "country": "Austria",
+      "city": "Eberndorf",
+      "architect": "?",
+      "decors": [
+        {
+          "decorId": "0427",
+          "decorName": "Skyline"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_EFH_ToploitdvhHart_9141_Eberndorf_31_10e871dbcd.jpg"
+    },
+    {
+      "name": "PLATEAU - Outdoormöbel für soziale Interaktion",
+      "country": "Denmark",
+      "city": "?",
+      "architect": "OUT-SIDER A/S",
+      "decors": [
+        {
+          "decorId": "0712",
+          "decorName": "Steel Blue"
+        },
+        {
+          "decorId": "0429",
+          "decorName": "Corro"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/_processed_/csm_Producer_out-sider_Design_Holscher_Design_Picture_Karina_Tengberg_I_f2c46b02ab.jpg"
+    },
+    {
+      "name": "Zentrum Elbira Zipitria",
+      "country": "Spain",
+      "city": "28018 San Sebastian - Gipuzkoa, Paseo Ondarreta 18",
+      "architect": "ARKILAN ARQUITECTURA Y URBANISMO",
+      "decors": [
+        {
+          "decorId": "0742",
+          "decorName": "Pebble Grey"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Zentrum_Elbira_Zipitria_II_7e785886ca.jpg"
+    },
+    {
+      "name": "Station by Fonatsch - Buswartehäuschen",
+      "country": "Austria",
+      "city": "3390 Melk, Winden bei Melk",
+      "architect": "GP designpartners gmbh",
+      "decors": [
+        {
+          "decorId": "0742",
+          "decorName": "Pebble Grey"
+        },
+        {
+          "decorId": "0803",
+          "decorName": "Tyrol Pine"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Bushaltestelle_Fontasch_92e112fc93.jpg"
+    },
+    {
+      "name": "Eurospar in St.Valentin",
+      "country": "Austria",
+      "city": "St.Valentin, Westbahnstr. 88",
+      "architect": "Andreas Dworschak",
+      "decors": [
+        {
+          "decorId": "0742",
+          "decorName": "Pebble Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Eurospar_St.Valentin_2_0862c35166.jpg"
+    },
+    {
+      "name": "Brigade Gateway",
+      "country": "India",
+      "city": "?",
+      "architect": "Brigade Group",
+      "decors": [
+        {
+          "decorId": "0741",
+          "decorName": "Birch Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Brigade_DSC04397_aca5eb0961.jpg"
+    },
+    {
+      "name": "Academy for Advanced Design & Technology Magnet (Goodwin College)",
+      "country": "USA",
+      "city": "06118-1805 East Hartford, 2 Pent Road",
+      "architect": "Amenta Emma Architects",
+      "decors": [
+        {
+          "decorId": "0074",
+          "decorName": "Pastel Grey"
+        },
+        {
+          "decorId": "0075",
+          "decorName": "Dark Grey"
+        },
+        {
+          "decorId": "0077",
+          "decorName": "Charcoal"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        },
+        {
+          "decorId": "0725",
+          "decorName": "Yellowish Green"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Goodwin_College_Amenta_Emma_Architects_VIII_116d0cf4d1.jpg"
+    },
+    {
+      "name": "Schiff auf einem Spielplatz",
+      "country": "France",
+      "city": "Cagnes sur mer",
+      "architect": "Konzeption: Quali-cité",
+      "decors": [
+        {
+          "decorId": "0074",
+          "decorName": "Pastel Grey"
+        },
+        {
+          "decorId": "0736",
+          "decorName": "Saffron"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        },
+        {
+          "decorId": "0717",
+          "decorName": "Atlantic"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Spielplatz_Bateau_Cagnes_sur_mer_d6bb3640d6.jpg"
+    },
+    {
+      "name": "Individueller Wohnsitz in Frankreich",
+      "country": "France",
+      "city": "53250 Le Ham",
+      "architect": "?",
+      "decors": [
+        {
+          "decorId": "0074",
+          "decorName": "Pastel Grey"
+        },
+        {
+          "decorId": "0070",
+          "decorName": "Carbon Grey"
+        },
+        {
+          "decorId": "0717",
+          "decorName": "Atlantic"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_LE_HAM__c__David_Boureau_3966_f79dfe6277.jpg"
+    },
+    {
+      "name": "Bibliothek in der Slowakei",
+      "country": "Slovakia",
+      "city": "Humenné, Námestia Slobody 50",
+      "architect": "Michal Šimurda",
+      "decors": [
+        {
+          "decorId": "0074",
+          "decorName": "Pastel Grey"
+        },
+        {
+          "decorId": "0075",
+          "decorName": "Dark Grey"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        },
+        {
+          "decorId": "0736",
+          "decorName": "Saffron"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Bibliothek_in_der_Slowakei1_74e8bc04b9.jpg"
+    },
+    {
+      "name": "Betriebsanlage Zoerkler Gears GmbH & Co KG",
+      "country": "Austria",
+      "city": "?",
+      "architect": "Architekten Mühlbacher Marschalek in Kooperation mit Marschalek Architekten ZT Ges.m.b.H.",
+      "decors": [
+        {
+          "decorId": "0074",
+          "decorName": "Pastel Grey"
+        },
+        {
+          "decorId": "0075",
+          "decorName": "Dark Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Zoerkler_1840_10_025bb1f9a0.jpg"
+    },
+    {
+      "name": "Haus in Strovolos",
+      "country": "Cyprus",
+      "city": "Nicosia",
+      "architect": "Christodoulou Christos, Christodoulides Marios",
+      "decors": [
+        {
+          "decorId": "0070",
+          "decorName": "Carbon Grey"
+        },
+        {
+          "decorId": "0747",
+          "decorName": "Medium Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Haus_in_Strovolos3_434714b0c5.jpg"
+    },
+    {
+      "name": "Bâtiment Air France",
+      "country": "France",
+      "city": "?",
+      "architect": "Agence Valero Gadan",
+      "decors": [
+        {
+          "decorId": "0070",
+          "decorName": "Carbon Grey"
+        },
+        {
+          "decorId": "0074",
+          "decorName": "Pastel Grey"
+        },
+        {
+          "decorId": "0075",
+          "decorName": "Dark Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Batiment_Orly_1_0f49a704ab.jpg"
+    },
+    {
+      "name": "Hotel Solidarités",
+      "country": "France",
+      "city": "?",
+      "architect": "Agence Pace Architecture",
+      "decors": [
+        {
+          "decorId": "0077",
+          "decorName": "Charcoal"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Hotel_des_solidarites_Reims_R__Fred_Laures-3_e645c576be.jpg"
+    },
+    {
+      "name": "Kinderspielplatz in Frankreich",
+      "country": "France",
+      "city": "Lauzach",
+      "architect": "Konzeption: Quali-cité",
+      "decors": [
+        {
+          "decorId": "0077",
+          "decorName": "Charcoal"
+        },
+        {
+          "decorId": "0803",
+          "decorName": "Tyrol Pine"
+        },
+        {
+          "decorId": "0725",
+          "decorName": "Yellowish Green"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Spielplatz_Lauzach_1eed7f6875.jpg"
+    },
+    {
+      "name": "Besucherzentrum Eisriesenwelt Werfen",
+      "country": "Österreich",
+      "city": "?",
+      "architect": "Architekt Werner Schmid",
+      "decors": [
+        {
+          "decorId": "0077",
+          "decorName": "Charcoal"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Eisriesen_Profi_028_Kopie_14c66d2feb.jpg"
+    },
+    {
+      "name": "Jugendwohnheim Móstoles Madrid",
+      "country": "Spain",
+      "city": "?",
+      "architect": "Rita Schlaen & Dardo Cúeno",
+      "decors": [
+        {
+          "decorId": "0077",
+          "decorName": "Charcoal"
+        },
+        {
+          "decorId": "0689",
+          "decorName": "Dark Red"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Jugendwohnheim_Spanien_0272_4f8701fdbf.jpg"
+    },
+    {
+      "name": "Erweiterung Kastner Gruppe",
+      "country": "Austria",
+      "city": "3910 Zwettl, Karl Kastner Straße 1",
+      "architect": "Marting Kitzler (künstlerische Gestaltung)",
+      "decors": [
+        {
+          "decorId": "0070",
+          "decorName": "Carbon Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Kastner_ID_III_Foto_Martin_Kitzler_36b04385b6.jpg"
+    },
+    {
+      "name": "Haus in Latsia",
+      "country": "Cyprus",
+      "city": "Nicosia",
+      "architect": "Christodoulou Christos, Christodoulides Marios",
+      "decors": [
+        {
+          "decorId": "0070",
+          "decorName": "Carbon Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Hause_in_Latsia_3_c204b3a4ea.jpg"
+    },
+    {
+      "name": "Schmidt Gebäudereinigung",
+      "country": "Austria",
+      "city": "4910 Ried im Innkreis, Bahnhofstraße 68a",
+      "architect": "Sarah Grusch",
+      "decors": [
+        {
+          "decorId": "0070",
+          "decorName": "Carbon Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm__JHE5686_f70754ed3a.jpg"
+    },
+    {
+      "name": "Rhythmic gymnastics center of Irina Viner",
+      "country": "Russia",
+      "city": "Moscow",
+      "architect": "Architekturium. Vladimir Bindeman's Workshop",
+      "decors": [
+        {
+          "decorId": "0717",
+          "decorName": "Atlantic"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        },
+        {
+          "decorId": "0657",
+          "decorName": "Sepia Brown"
+        },
+        {
+          "decorId": "6031",
+          "decorName": "Berry"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/_processed_/csm_Rhythmic_gymnastics_Irina_Viner_VI_0201bca094.jpg"
+    },
+    {
+      "name": "Passiv-Wohnhausanlage Wien",
+      "country": "Austria",
+      "city": "1220 Wien, Kaisermühlenstraße 24-26",
+      "architect": "Treberspurg & Partner Architekten ZT GmbH",
+      "decors": [
+        {
+          "decorId": "0647",
+          "decorName": "Golden Yellow"
+        },
+        {
+          "decorId": "0725",
+          "decorName": "Yellowish Green"
+        },
+        {
+          "decorId": "0687",
+          "decorName": "Maize"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_KMS-TPA-01_91121ed06b.jpg"
+    },
+    {
+      "name": "Kindergarten Bělá",
+      "country": "Czech Republic",
+      "city": "Ostrava - Nová Bělá, Na Pláni 609/2",
+      "architect": "OSA projekt s.r.o.",
+      "decors": [
+        {
+          "decorId": "0647",
+          "decorName": "Golden Yellow"
+        },
+        {
+          "decorId": "0689",
+          "decorName": "Dark Red"
+        },
+        {
+          "decorId": "0736",
+          "decorName": "Saffron"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Bela_Kindergarten_I_17f239ce06.jpg"
+    },
+    {
+      "name": "Raiffeisenbank Attergau eGen",
+      "country": "Austria",
+      "city": "4880 St.Georgen im Attergau, Attergaustraß 38a",
+      "architect": "?",
+      "decors": [
+        {
+          "decorId": "0647",
+          "decorName": "Golden Yellow"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Raiffeisenbank_Attergau_9616974df1.jpg"
+    },
+    {
+      "name": "Kindergarten Greifswald",
+      "country": "Germany",
+      "city": "?",
+      "architect": "Drebing Ehmke Architekten",
+      "decors": [
+        {
+          "decorId": "0647",
+          "decorName": "Golden Yellow"
+        },
+        {
+          "decorId": "0687",
+          "decorName": "Maize"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Greifswald_3_Kopie_11c358b21b.jpg"
+    },
+    {
+      "name": "Wissol Tankstelle, Smart Market",
+      "country": "Georgia",
+      "city": "Akhaltsikhe",
+      "architect": "Architekt Tengiz Kvantaliani, Studio ARCI",
+      "decors": [
+        {
+          "decorId": "0706",
+          "decorName": "Glacier Blue"
+        },
+        {
+          "decorId": "0736",
+          "decorName": "Saffron"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Wissol_Raststation_Akhaltsikhe_1_b15984b213.jpg"
+    },
+    {
+      "name": "Konservatorium Torrevieja (Alicante)",
+      "country": "Spain",
+      "city": "?",
+      "architect": "José María Tomás",
+      "decors": [
+        {
+          "decorId": "0027",
+          "decorName": "Prado Agate Grey"
+        },
+        {
+          "decorId": "0065",
+          "decorName": "Ivory"
+        },
+        {
+          "decorId": "0160",
+          "decorName": "Dark Afro"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Konservatorium_7023_a46303956b.jpg"
+    },
+    {
+      "name": "Spielplatz in Draguignan (Frankreich)",
+      "country": "France",
+      "city": "Draguignan",
+      "architect": "Konzeption: Quali-cité",
+      "decors": [
+        {
+          "decorId": "0674",
+          "decorName": "Mars Red"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Spielplatz_Draguignan_a74ee75b61.jpg"
+    },
+    {
+      "name": "City Arena - Fassade",
+      "country": "Slovakia",
+      "city": "Trnava",
+      "architect": "Ing. Adamec Pavol | adamec & adamec, s.r.o.",
+      "decors": [
+        {
+          "decorId": "0674",
+          "decorName": "Mars Red"
+        },
+        {
+          "decorId": "0794",
+          "decorName": "Patina Bronze"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_City_Arena_Fassade_5_92bbaffbc2.jpg"
+    },
+    {
+      "name": "Ufergestaltung der Erlauf in Scheibbs",
+      "country": "Austria",
+      "city": "3270 Scheibbs, Gaminger Straße",
+      "architect": "DI Christian Wittmeir",
+      "decors": [
+        {
+          "decorId": "0674",
+          "decorName": "Mars Red"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Ufergestaltung_Scheibbs_6_c25dbe389f.jpg"
+    },
+    {
+      "name": "Stadion Slavia Praha - Eden",
+      "country": "Czech Republic",
+      "city": "Praha",
+      "architect": "Omicron-K",
+      "decors": [
+        {
+          "decorId": "0674",
+          "decorName": "Mars Red"
+        },
+        {
+          "decorId": "0160",
+          "decorName": "Dark Afro"
+        },
+        {
+          "decorId": "0169",
+          "decorName": "Akro Ruby"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Stadion_Slavia_Prag_039_d47905d482.jpg"
+    },
+    {
+      "name": "Wohnhaus Olomouc",
+      "country": "Czech Republic",
+      "city": "Olomouc",
+      "architect": "?",
+      "decors": [
+        {
+          "decorId": "0674",
+          "decorName": "Mars Red"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Olomouc_Balkone_CZ_IMGP0065_67d91f505d.jpg"
+    },
+    {
+      "name": "Campus Futura",
+      "country": "Austria",
+      "city": "9150 Bleiburg, Dr. Ludwig Herbst Straße 1",
+      "architect": "Architekturbüro Frei & Wurzrainer ZT GmbH",
+      "decors": [
+        {
+          "decorId": "0689",
+          "decorName": "Dark Red"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Campus_Futura_Stuelp_0689__9__849e5e928f.jpg"
+    },
+    {
+      "name": "Tour de Marseille",
+      "country": "France",
+      "city": "?",
+      "architect": "Tectrum Architecture",
+      "decors": [
+        {
+          "decorId": "0689",
+          "decorName": "Dark Red"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Tour_Marseille_ret_92189ca035.jpg"
+    },
+    {
+      "name": "Blumenhalle St.Veit/Glan",
+      "country": "Austria",
+      "city": "St.Veit",
+      "architect": "frediani+gasserarchitettura",
+      "decors": [
+        {
+          "decorId": "0689",
+          "decorName": "Dark Red"
+        },
+        {
+          "decorId": "0674",
+          "decorName": "Mars Red"
+        },
+        {
+          "decorId": "0691",
+          "decorName": "Purple"
+        },
+        {
+          "decorId": "0702",
+          "decorName": "Night Blue"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Blumenhalle_141_pt_5f974be501.jpg"
+    },
+    {
+      "name": "Spielplatz in Velizy (Frankreich)",
+      "country": "France",
+      "city": "Velizy",
+      "architect": "Conception: Quali-cité",
+      "decors": [
+        {
+          "decorId": "0725",
+          "decorName": "Yellowish Green"
+        },
+        {
+          "decorId": "0623",
+          "decorName": "Green"
+        },
+        {
+          "decorId": "0803",
+          "decorName": "Tyrol Pine"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Spielplatz_Velizy_876e546943.jpg"
+    },
+    {
+      "name": "Kindergarten in Tarnos",
+      "country": "France",
+      "city": "Tarnos",
+      "architect": "Two Architectes á Bordeaux",
+      "decors": [
+        {
+          "decorId": "0725",
+          "decorName": "Yellowish Green"
+        },
+        {
+          "decorId": "0623",
+          "decorName": "Green"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_CrecheTarnos_26_453780520f.jpg"
+    },
+    {
+      "name": "Wohnhaus Hacken-/Beingasse Wien",
+      "country": "Austria",
+      "city": "Wien, Hackengasse 29/Beingasse 30",
+      "architect": "Hans Kukula Architekt",
+      "decors": [
+        {
+          "decorId": "0617",
+          "decorName": "Petrol Green"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Wohnhaus_Beingasse_cf239913ae.jpg"
+    },
+    {
+      "name": "Liverpool Einkaufszentrum",
+      "country": "Mexico",
+      "city": "C.P. 50160 Toluca de Lerdo, Calle Robert Fulton Santa Ana Tlapaltitlan",
+      "architect": "SPRINGALL+LIRA",
+      "decors": [
+        {
+          "decorId": "0657",
+          "decorName": "Sepia Brown"
+        },
+        {
+          "decorId": "0797",
+          "decorName": "Walnut Tirano"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Liverppol_Einkaufszentrum_0e88a65db2.jpg"
+    },
+    {
+      "name": "Schwimmbecken eines Hauses in Portugal",
+      "country": "Portugal",
+      "city": "Caminha, Seixas, Rua do Monte 27",
+      "architect": "Pedro Correia & Rui Guimarães-Arquitectos Associados Lda",
+      "decors": [
+        {
+          "decorId": "0657",
+          "decorName": "Sepia Brown"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Hotel_Silelis_1_a51d3f415c.jpg"
+    },
+    {
+      "name": "Sentosa Bürogebäude",
+      "country": "Romania",
+      "city": "Cluj-Napoca, Strada Fabricii De Zahar 109",
+      "architect": "Dico Si Tiganas",
+      "decors": [
+        {
+          "decorId": "0627",
+          "decorName": "Hygienic Beige"
+        },
+        {
+          "decorId": "0027",
+          "decorName": "Prado Agate Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Sentosa_Buerogebaeude_II_04d6d17534.jpg"
+    },
+    {
+      "name": "University of Canberra",
+      "country": "Australia",
+      "city": "Canberra, Pantowora Street",
+      "architect": "Nettleton Tribe Partnership Pty Ltd",
+      "decors": [
+        {
+          "decorId": "0601",
+          "decorName": "Sun Pear"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Universitaet_Canberra_I_ee9def7613.jpg"
+    },
+    {
+      "name": "Bürogebäude Lallemant Fermetures",
+      "country": "France",
+      "city": "?",
+      "architect": "Alain Michel, Architecte DPLG & Eric Liegeois",
+      "decors": [
+        {
+          "decorId": "0601",
+          "decorName": "Sun Pear"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Buerogebaeude_Lallemant_Fermetures_LALLEMANT_FERMETURES_VUE_1_3e703b9d06.jpg"
+    },
+    {
+      "name": "Logements Étudiants Noyer Doré",
+      "country": "France",
+      "city": "?",
+      "architect": "Bosom & Onate et NZA Architecture",
+      "decors": [
+        {
+          "decorId": "0601",
+          "decorName": "Sun Pear"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Noyer_Poj_148_FR_Anthony__84ccb4e077.jpg"
+    },
+    {
+      "name": "Local Poubelle 'Résidence l'Abbaye' St Cyr Ecole",
+      "country": "France",
+      "city": "?",
+      "architect": "Tectum",
+      "decors": [
+        {
+          "decorId": "0601",
+          "decorName": "Sun Pear"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Vues_Local_et_facades_St_Cyr_224ac57838.jpg"
+    },
+    {
+      "name": "Neubau Kinderhaus in Deutschland",
+      "country": "Germany",
+      "city": "75045 Walzbachtal, Jöhlingen",
+      "architect": "M.J.F. Ibele Architekten",
+      "decors": [
+        {
+          "decorId": "5171",
+          "decorName": "Polar Oak"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Neubau_Kinderhaus_in_Deutschland_Peter_Langenhahn_II_8f860c5fff.jpg"
+    },
+    {
+      "name": "Ärztehaus Hochdorf",
+      "country": "Germany",
+      "city": "88400 Biberach, Hauptstraße 24",
+      "architect": "Sick & Fischbach architekten PartGmbB",
+      "decors": [
+        {
+          "decorId": "5173",
+          "decorName": "Barrique Oak"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Aerztehaus_Hochdorf_III_56030e0a5d.jpg"
+    },
+    {
+      "name": "Rehabilitierung von 230 Appartments",
+      "country": "France",
+      "city": "51100 Reims, 8.Rue Charles Roche",
+      "architect": "Atelier Choiseul",
+      "decors": [
+        {
+          "decorId": "0162",
+          "decorName": "Afro Sahara"
+        },
+        {
+          "decorId": "0801",
+          "decorName": "Fir Platinum"
+        },
+        {
+          "decorId": "0798",
+          "decorName": "Tambora"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Rehabilitierung_230_Appartements_6_76e5058042.jpg"
+    },
+    {
+      "name": "European College in Sofia",
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "architect": "Architectural Agency -DD-arch. Daniela Dikova",
+      "decors": [
+        {
+          "decorId": "0801",
+          "decorName": "Fir Platinum"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_European_College_1_IMG_2739_b9e4428fed.jpg"
+    },
+    {
+      "name": "Residenz Claye Souilly",
+      "country": "France",
+      "city": "Claye Souilly, 42 avenue Aristide Briand",
+      "architect": "DT Architecte",
+      "decors": [
+        {
+          "decorId": "0803",
+          "decorName": "Tyrol Pine"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Residenz_Claye_Souilly4_557c381881.jpg"
+    },
+    {
+      "name": "Hotel Garni Tirol",
+      "country": "Austria",
+      "city": "6344 Walchsee, Sonnleiten 57",
+      "architect": "?",
+      "decors": [
+        {
+          "decorId": "0803",
+          "decorName": "Tyrol Pine"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Hotel_Garni_Tirol_Balkon_1_e71761112c.jpg"
+    },
+    {
+      "name": "Wohnen im Atrium",
+      "country": "Austria",
+      "city": "St.Johann im Pongau",
+      "architect": "DI Thomas Kranabetter",
+      "decors": [
+        {
+          "decorId": "0161",
+          "decorName": "Light Afro"
+        },
+        {
+          "decorId": "0085",
+          "decorName": "White"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Wohnen_im_Atrium_II_963c29773b.jpg"
+    },
+    {
+      "name": "Studentenhaus in Frankreich - CC le Capito",
+      "country": "France",
+      "city": "78990 Elancourt, 4 place Mendes France",
+      "architect": "A&B PMCR Architectes",
+      "decors": [
+        {
+          "decorId": "0161",
+          "decorName": "Light Afro"
+        },
+        {
+          "decorId": "0028",
+          "decorName": "Prado Brown"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Studentenhaus_Paris_CC_le_Capitol_3_13a9422c04.jpg"
+    },
+    {
+      "name": "Haus in Tseri",
+      "country": "Cyprus",
+      "city": "Nicosia",
+      "architect": "Sophocleous Demetris",
+      "decors": [
+        {
+          "decorId": "0161",
+          "decorName": "Light Afro"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Hause_in_Tseri2_48a487ace2.jpg"
+    },
+    {
+      "name": "Gedenkstätte Nikola Tesla",
+      "country": "Croatia",
+      "city": "Smiljan",
+      "architect": "Timotej Kritovac d.i.a.",
+      "decors": [
+        {
+          "decorId": "0161",
+          "decorName": "Light Afro"
+        },
+        {
+          "decorId": "0160",
+          "decorName": "Dark Afro"
+        },
+        {
+          "decorId": "0168",
+          "decorName": "Akro Rust"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Gedenkstaette_HR_VO1E3003_2c7224cfcf.jpg"
+    },
+    {
+      "name": "Shiva Kumar's Residence",
+      "country": "India",
+      "city": "?",
+      "architect": "Nagesh Verma",
+      "decors": [
+        {
+          "decorId": "0161",
+          "decorName": "Light Afro"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Kumars_Residence_1427_49f1c6cd7f.jpg"
+    },
+    {
+      "name": "SMART-Wohnen - Wohnbebauung Wien",
+      "country": "Austria",
+      "city": "1100 Wien, Alfred-Adler-Straße",
+      "architect": "Geiswinkler & Geiswinkler - Architekten ZT GmbH",
+      "decors": [
+        {
+          "decorId": "0160",
+          "decorName": "Dark Afro"
+        },
+        {
+          "decorId": "0168",
+          "decorName": "Akro Rust"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/_processed_/csm_OE_WHA_Hauptbahnhof_Fotograf__Manfred_Seidl_Website_I_b714975879.jpg"
+    },
+    {
+      "name": "Brede School Oude Landen",
+      "country": "Netherlands",
+      "city": "Nuenen",
+      "architect": "KDV Architekten",
+      "decors": [
+        {
+          "decorId": "0162",
+          "decorName": "Afro Sahara"
+        },
+        {
+          "decorId": "0168",
+          "decorName": "Akro Rust"
+        },
+        {
+          "decorId": "0169",
+          "decorName": "Akro Ruby"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_08_Schule_Treppe_115555ebb2.jpg"
+    },
+    {
+      "name": "Dépôt Autocar à Voiron",
+      "country": "France",
+      "city": "?",
+      "architect": "GTB Architects",
+      "decors": [
+        {
+          "decorId": "0168",
+          "decorName": "Akro Rust"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Project_35_FR-Gesamtansicht_06eabecaf2.jpg"
+    },
+    {
+      "name": "Logements Saint Quen",
+      "country": "France",
+      "city": "?",
+      "architect": "Agence Rafatdjou Makan",
+      "decors": [
+        {
+          "decorId": "0168",
+          "decorName": "Akro Rust"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Logements_St_Quen_03_25b3594d93.jpg"
+    },
+    {
+      "name": "Spa Hotel Bründl",
+      "country": "Austria",
+      "city": "Bad Leonfelden",
+      "architect": "Team M Architekten, Linz",
+      "decors": [
+        {
+          "decorId": "0169",
+          "decorName": "Akro Ruby"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Bruendl_MG_5454__ccde8e0ff0.jpg"
+    },
+    {
+      "name": "Musikhaus Harmonika Müller GmbH",
+      "country": "Austria",
+      "city": "Bad St.Leonhard, Bamberger Straße 508",
+      "architect": "Raimund Baumgartner GmbH",
+      "decors": [
+        {
+          "decorId": "0169",
+          "decorName": "Akro Ruby"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Musikhaus_Harmonika_Mueller_3261_Kopie_5147e427da.jpg"
+    },
+    {
+      "name": "Casa de Uco - Wine Resort",
+      "country": "Argentina",
+      "city": "Mendoza, Tunuyan - Valle de Uco - 5560",
+      "architect": "Estudio Alberto Tonconogy Arq.",
+      "decors": [
+        {
+          "decorId": "0160",
+          "decorName": "Dark Afro"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Hotel_Casa_de_Uco_Picture_taken_by_Estudio_Alberto_Tonconogy_Arq._IV_02bad21691.jpg"
+    },
+    {
+      "name": "Mensa Krankenhaus",
+      "country": "Turkey",
+      "city": "Ankara",
+      "architect": "Anshen & Allen / Turhan Kayasu",
+      "decors": [
+        {
+          "decorId": "0160",
+          "decorName": "Dark Afro"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_ANKARA_MESA_HASTAHANESI_125_283f4e0127.jpg"
+    },
+    {
+      "name": "Stadterneuerungsprojekt Wien",
+      "country": "Austria",
+      "city": "Wien",
+      "architect": "Ing. Fritz Brandstätter Bauplanungs- & Management GmbH",
+      "decors": [
+        {
+          "decorId": "0793",
+          "decorName": "Patina Tin"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Stadterneuerung_P1012898_a99ea5b06f.jpg"
+    },
+    {
+      "name": "Elan Gründerzentrum",
+      "country": "Germany",
+      "city": "76532 Baden-Baden, Gewerbepark Citè 4",
+      "architect": "AID Architekturbüro",
+      "decors": [
+        {
+          "decorId": "0794",
+          "decorName": "Patina Bronze"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Elan_Gruenderzentrum_1_Aussenansicht_2_bb11605258.jpg"
+    },
+    {
+      "name": "Energieeffizenzhaus in Dresden",
+      "country": "Germany",
+      "city": "Dresden, Karl Roth Str. 2",
+      "architect": "Claudia Deutscher",
+      "decors": [
+        {
+          "decorId": "0162",
+          "decorName": "Afro Sahara"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Energieeffizienzhaus_3_fa0e4cea18.jpg"
+    },
+    {
+      "name": "Haus in Nea Ledra",
+      "country": "Cyprus",
+      "city": "Nicosia",
+      "architect": "Neophytou Nataly",
+      "decors": [
+        {
+          "decorId": "0162",
+          "decorName": "Afro Sahara"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Haus_in_Nea_Ledra_8de4635f59.jpg"
+    },
+    {
+      "name": "Aural Bergson - Centre de Dialyse",
+      "country": "France",
+      "city": "?",
+      "architect": "Cabinet d‘Architecture Gilch-Kalk-Gilch",
+      "decors": [
+        {
+          "decorId": "0162",
+          "decorName": "Afro Sahara"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Aural_Bergson_Strasbourg_05_f2cef8f02a.jpg"
+    },
+    {
+      "name": "Busterminal Attnang-Puchheim",
+      "country": "Austria",
+      "city": "4800 Attnang-Puchheim, Dr. Karl Renner-Platz",
+      "architect": "Architekturbüro Gilhofer",
+      "decors": [
+        {
+          "decorId": "0158",
+          "decorName": "Afro Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Busbahnhof_Attnang__4__d44edd89d0.jpg"
+    },
+    {
+      "name": "Einsegnungshalle Wels",
+      "country": "Austria",
+      "city": "Wels",
+      "architect": "Delta Projektconsult",
+      "decors": [
+        {
+          "decorId": "0158",
+          "decorName": "Afro Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_4600_Wels_Aufbahrungshalle_925bcfbb98.jpg"
+    },
+    {
+      "name": "Verwaltungsgebäude in Runding bei Cham",
+      "country": "Germany",
+      "city": "?",
+      "architect": "ENGL+MEINDL ARCHITEKTEN CHAM",
+      "decors": [
+        {
+          "decorId": "0159",
+          "decorName": "Afro Black"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Verwaltung_Runding_Buerohaus_02_0d2fa0ccb2.jpg"
+    },
+    {
+      "name": "Passivwohnhausanlage Lodenareal Bauteil in 144",
+      "country": "Austria",
+      "city": "?",
+      "architect": "teamk2 [architects] ZT GMBH",
+      "decors": [
+        {
+          "decorId": "0027",
+          "decorName": "Prado Agate Grey"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Lodenareal_WH_IBK_Team_K2_IMG_4968_Kopie_77f902aca0.jpg"
+    },
+    {
+      "name": "muk",
+      "country": "Austria",
+      "city": "5760 Saalfelden, Erlenweg 1",
+      "architect": "Arch. DI Andreas Hörl / Arch. DI Robert Reichkendler | mahore architekten",
+      "decors": [
+        {
+          "decorId": "AUTN",
+          "decorName": "Authentic Natura"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_MUK_2_f3030ab149.jpg"
+    },
+    {
+      "name": "Modernes Kino Issoire in Frankreich",
+      "country": "France",
+      "city": "63500 Issoire, Rue du Postillon",
+      "architect": "Atelier 4",
+      "decors": [
+        {
+          "decorId": "AUTN",
+          "decorName": "Authentic Natura"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Kino_in_Frankreich_0_ec86eb55da.jpg"
+    },
+    {
+      "name": "Neubau Firmensitz",
+      "country": "Germany",
+      "city": "14532 Kleinmachnow, Fahrenheitstr. 6",
+      "architect": "Franziska Groß",
+      "decors": [
+        {
+          "decorId": "AUTN",
+          "decorName": "Authentic Natura"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Fahrenheitstr._1_26e32cbde5.jpg"
+    },
+    {
+      "name": "Küche im Privatbereich",
+      "country": "Austria",
+      "city": "Wien",
+      "architect": "Ivo Dolezalek / Lena Schacherer",
+      "decors": [
+        {
+          "decorId": "AUTN",
+          "decorName": "Authentic Natura"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Kueche_im_Privatbereich_kueche_authentic_752b55c5c6.jpg"
+    },
+    {
+      "name": "KPS Kotlik Prokopp Stadler OG",
+      "country": "Austria",
+      "city": "Guntramsdorf",
+      "architect": "Lothar Jell-Paradeiser in Kooperation mit Arge x42",
+      "decors": [
+        {
+          "decorId": "AUTN",
+          "decorName": "Authentic Natura"
+        }
+      ],
+      "samplePicture": "https://www.fundermax.at/fileadmin/redakteure/_processed_/csm_Guntramsdorf_pf10065dII-3711_574485521e.jpg"
+    }
+  ]
+}
